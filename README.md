@@ -10,3 +10,7 @@ En la empresa hay diferentes tipos de clientes, en donde la mayoría son los "Co
 Las ventas en cantidad se distribuyen en las diferentes tiendas de forma diferente, siendo la tienda Nido la que lidera el volumen acumulado, seguida por Chaco y Flor:
 
 ![Gráfico de Ventas por Tienda](https://github.com/vittoriadelsignore/Ventas_Cantidades_Montos/blob/master/Venta%20por%20Tienda.png)
+
+Evaluemos por medio de una gráfica BoxPlot el comportamiento de las ventas por producto, donde lo más vendidos son las cervezas y refrescos, y los alimentos básicos; en donde hay clientes que hacen compras de grandes cantidades, por eso hay múltiples valores de outliers:
+
+![Gráfico de Ventas por Producto](https://github.com/vittoriadelsignore/Ventas_Cantidades_Montos/blob/master/Boxplot%20Producto.png)
