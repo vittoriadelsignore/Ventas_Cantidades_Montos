@@ -14,3 +14,7 @@ Las ventas en cantidad se distribuyen en las diferentes tiendas de forma diferen
 Evaluemos por medio de una gráfica BoxPlot el comportamiento de las ventas por producto, donde lo más vendidos son las cervezas y refrescos, y los alimentos básicos; en donde hay clientes que hacen compras de grandes cantidades, por eso hay múltiples valores de outliers:
 
 ![Gráfico de Ventas por Producto](https://github.com/vittoriadelsignore/Ventas_Cantidades_Montos/blob/master/Boxplot%20Producto.png)
+
+Podemos encontrar, como es de esperar, relación entre las 2 variables principales de este análisis, es decir: cantidad (unidades) y ventas ($), lo cual se ve plasmado en el siguiente gráfico, que expresa que a mayor cantidad de productos se venden, entonces hay mayor venta a nivel monetario:
+
+![Gráfico de Relación Cantidad y Ventas](https://github.com/vittoriadelsignore/Ventas_Cantidades_Montos/blob/master/Cantidad%20vs%20Venta%20Feb21.png)
