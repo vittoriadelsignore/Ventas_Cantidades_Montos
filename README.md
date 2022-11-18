@@ -23,6 +23,6 @@ Ahora abrimos ese gráfico por tipo de cliente, en donde se ve que el grupo que 
 
 ![Gráfico de Relación Cantidad y Ventas por tipo de cliente](https://github.com/vittoriadelsignore/Ventas_Cantidades_Montos/blob/master/Cantidad%20vs%20Venta%20Feb21%20por%20tipo%20cliente.png)
 
-Si nos centramos en Cervezas y Refrescos, podemos ver que la venta se concentra en la tienda Noto:
+Si nos centramos en Cervezas y Refrescos, podemos ver que la venta se concentra en la tienda "Noto":
 
 ![Gráfico de Cervezas y Refrescos por Tienda](https://github.com/vittoriadelsignore/Ventas_Cantidades_Montos/blob/master/Boxplot%20Cervezas%20y%20Refrescos.png)
