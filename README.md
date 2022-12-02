@@ -26,3 +26,8 @@ Ahora abrimos ese gráfico por tipo de cliente, en donde se ve que el grupo que 
 Si nos centramos en Cervezas y Refrescos, podemos ver que la venta se concentra en la tienda "Noto":
 
 ![Gráfico de Cervezas y Refrescos por Tienda](https://github.com/vittoriadelsignore/Ventas_Cantidades_Montos/blob/master/Boxplot%20Cervezas%20y%20Refrescos.png)
+
+La concentración por tipo de cliente, está mayoritariamente en Consumidores Finales, cuya venta se concentra hasta 1*10^7, pero hay un grupo de clientes que compran más de eso:
+
+![Gráfico de Cervezas y Refrescos por Tienda](https://github.com/vittoriadelsignore/Ventas_Cantidades_Montos/blob/master/Concentraci%C3%B3n%20por%20tipo%20de%20cliente.png)
+
